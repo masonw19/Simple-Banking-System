@@ -29,10 +29,18 @@ This is what it looks like when the user views all the records, you can see that
 ### Update Record
 In the main menu the user also has an option to update a record. For this they will be asked to enter an account number and then the account 
 will information will appear on the console. They will then be asked what data field they would like to update as well as the new value they 
-would like to save. Here the user is making a $50.00 deposit into acount number 111:
+would like to save. Here the user is making a $50.00 deposit into acount number '111':
 
 ![flowchart showcase](screenshots/updateRecord.png)
 
+
+### Display Updated Records
+Here you can see if we display the records again from the main menu that the account balance for account number '111' has increased by $50.00:
+
 ![flowchart showcase](screenshots/recordsUpdated.png)
+
+### Save & Exit
+When we save & exit from the main menu all the changes we have made will be saved into a text file. This text file is open and read
+when we first start the program to initialize the data vectors for our bank_query class:
 
 ![flowchart showcase](screenshots/txtRecords.png)
