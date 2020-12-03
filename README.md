@@ -31,7 +31,7 @@ In the main menu the user also has an option to update a record. For this they w
 will information will appear on the console. They will then be asked what data field they would like to update as well as the new value they 
 would like to save. Here the user is making a $50.00 deposit into acount number 111:
 
-![flowchart showcase](screenshots/udpateRecord.png)
+![flowchart showcase](screenshots/updateRecord.png)
 
 ![flowchart showcase](screenshots/recordsUpdated.png)
 
