@@ -33,7 +33,6 @@ would like to save. Here the user is making a $50.00 deposit into acount number 
 
 ![flowchart showcase](screenshots/updateRecord.png)
 
-
 ### Display Updated Records
 Here you can see if we display the records again from the main menu that the account balance for account number '111' has increased by $50.00:
 
